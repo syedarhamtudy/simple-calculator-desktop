@@ -1,2 +1,3 @@
 let message = "Hello World";
-console.log(message);
+let name = "Google"
+console.log(message +" "+ name);
